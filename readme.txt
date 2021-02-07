@@ -12,3 +12,5 @@ $ git config --global user.email liangquan.ding@flairmicro.com
 git reset --hard 版本的哈希码
 
 模拟第3次提交
+
+模拟第4次提交，但是这是一次违规，后面会把这次的提交回退

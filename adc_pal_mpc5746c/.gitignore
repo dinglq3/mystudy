@@ -1,0 +1,17 @@
+*.repo
+EOL_SHELL_Z4/
+doc/
+Tools/
+si/
+*.settings/
+*.a
+*.o
+*.d
+*.mk
+*.args
+*.local
+*Debug
+/*/.gitignore
+*.patch
+Debug_FLASH/
+Documentation/

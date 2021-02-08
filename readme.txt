@@ -18,3 +18,5 @@ git reset --hard 版本的哈希码
 dev分支上商城开发了50%
 
 BUG分支上修复BUG
+
+dev分支上商城开发了100%
